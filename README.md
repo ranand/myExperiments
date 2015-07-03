@@ -5,7 +5,6 @@ To run the main file: ruby myFundingCircleQuestion.rb
 Result should be similar to:
 
  PRIME NUMBER MULTIPLICATION 
--------------------------------
 
 Enter the number of primes you would like to multiply : 10
 
@@ -31,7 +30,7 @@ Prime numbers for the chosen limit are: [2, 3, 5, 7, 9, 11, 13, 15, 17, 19]
 To run the test file : ruby myFundingCircleTest.rb
 
 PRIME NUMBER MULTIPLICATION 
--------------------------------
+
 Enter the number of primes you would like to multiply : 2
 
 
